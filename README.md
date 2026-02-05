@@ -1,5 +1,37 @@
 # 💫 About Me:
-Hi there! I'm Chetan Sharma, a passionate web development enthusiast who loves crafting clean, creative, and user-friendly digital experiences. I'm currently working on several web development projects and diving deeper into advanced CSS, JavaScript, and UI/UX principles.<br><br>🔭 I’m currently working on: Web development projects<br><br>🌱 I’m learning: Advanced CSS, JavaScript, UI/UX design, and Figma<br><br>💬 Ask me about: HTML, CSS, JavaScript, C, C++, Java, Canva, and general design<br><br>📫 Reach me at: chetansharma32652@gmail.com<br>💼 LinkedIn: chetansharma3114<br><br>⚡ Fun fact: I'm an extrovert who loves connecting with people, watching anime, and spending hours programming and building cool stuff.
+## 👋 Hey, I'm Chetan Sharma
+
+💻 Full Stack Developer (MERN) who loves building clean, fast, and user-friendly web apps.
+
+I enjoy turning ideas into real products — from designing smooth UIs in React to building solid backends with Node.js & Express.  
+Most of my time goes into coding, learning new tech, and improving how things look and perform.
+
+Currently exploring advanced JavaScript, UI/UX design, and system architecture while working on real-world projects.
+
+---
+
+### 🚀 What I'm up to
+• Building web apps & freelance projects  
+• Practicing DSA  
+• Learning DevOps & Cloud  
+
+### 🛠 Tech Stack
+Frontend: React, JavaScript, HTML, CSS  
+Backend: Node.js, Express  
+Database: MongoDB, MySQL  
+Languages: C++, Java, PHP  
+Tools: Git, REST APIs, Figma, Canva  
+
+### 💬 Ask me about
+Web Dev • MERN • DSA • UI Design  
+
+### 📫 Reach me
+Email: chetansharma32652@gmail.com  
+LinkedIn: chetansharma3114  
+
+### ⚡ Fun fact
+Extrovert, anime fan, and someone who can code for hours without noticing time 😄
+
 
 
 ## 🌐 Socials:
