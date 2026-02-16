@@ -1,13 +1,13 @@
-<!-- ======================== ANIMATED HEADER ======================== -->
+<!-- ======================== LEGEND HEADER ======================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Chetan+Sharma;Full+Stack+MERN+Developer;100+Days+of+DSA;Backend+Focused+Engineer;Building+Scalable+Web+Applications+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=4000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Chetan+Sharma;Full+Stack+MERN+Developer;100+Days+of+DSA;Backend+Focused+Engineer;Building+Scalable+Systems+🚀" />
 </h1>
 
-<h3 align="center">💻 MERN Stack Developer | 📚 DSA Enthusiast | ☁️ DevOps Learner</h3>
+<h3 align="center">💻 MERN Stack Developer | 📚 DSA | ☁️ DevOps | 🔥 Consistency First</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chetan2324&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Chetan2324&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -15,11 +15,11 @@
 # 🚀 About Me
 
 ```diff
-+ 💻 Full Stack Developer passionate about building scalable systems
++ 💻 Passionate about building scalable backend systems
 + 📚 Solving Data Structures & Algorithms daily (100 Days Challenge)
-+ ☁️ Exploring DevOps & Cloud technologies
-+ 🎯 Focused on Backend Engineering & System Design
-+ 🔥 Consistency > Motivation
++ ☁️ Exploring DevOps & Cloud fundamentals
++ 🎯 Targeting Backend & System Design roles
++ 🔥 Focused on Growth, Consistency & Real Projects
 ```
 
 ---
@@ -34,30 +34,38 @@
 
 # 🌟 Featured Projects
 
-## ♻️ CleanZy – Smart Waste Management System  
-🚀 Full-stack waste management & tracking platform  
-⚙️ React | Node.js | Express | MongoDB  
-🔗 Repository: https://github.com/Chetan2324/CleanZy-Smart-Waste-Management  
+### ♻️ CleanZy – Smart Waste Management System  
+Full-stack waste tracking & management platform  
+⚙️ React | Node | Express | MongoDB  
+🔗 https://github.com/Chetan2324/CleanZy-Smart-Waste-Management  
 
 ---
 
-## 🤖 AI Resume Builder  
+### 🤖 AI Resume Builder  
 AI-powered resume generation platform  
 ⚙️ MERN Stack  
-🔗 Repository: https://github.com/Chetan2324/ai-resume-builder  
+🔗 https://github.com/Chetan2324/ai-resume-builder  
 
 ---
 
-## 📊 Excel Analytics Platform  
-Data visualization & analytics tool  
-⚙️ JavaScript | Data Processing | Charts  
-🔗 Repository: https://github.com/Chetan2324/excel-analytics-platform  
+### 📊 Excel Analytics Platform  
+Data visualization & analytics system  
+⚙️ JavaScript | Charts | Data Processing  
+🔗 https://github.com/Chetan2324/excel-analytics-platform  
 
 ---
 
-## 🌾 Chetan AgriTech  
+### 🌾 Chetan AgriTech  
 Tech-driven agricultural management solution  
-🔗 Repository: https://github.com/Chetan2324/ChetanAgriTech  
+🔗 https://github.com/Chetan2324/ChetanAgriTech  
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chetan2324&theme=tokyonight&no-frame=true&margin-w=10" />
+</div>
 
 ---
 
