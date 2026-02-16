@@ -1,56 +1,77 @@
-# 💫 About Me:
-## 👋 Hey, I'm Chetan Sharma
-
-💻 Full Stack Developer (MERN) who loves building clean, fast, and user-friendly web apps.
-
-I enjoy turning ideas into real products — from designing smooth UIs in React to building solid backends with Node.js & Express.  
-Most of my time goes into coding, learning new tech, and improving how things look and perform.
-
-Currently exploring advanced JavaScript, UI/UX design, and system architecture while working on real-world projects.
+<h1 align="center">Hi 👋, I'm Chetan Sharma</h1>
+<h3 align="center">🚀 MERN Stack Developer | DSA Enthusiast | Backend Focused</h3>
 
 ---
 
-### 🚀 What I'm up to
-• Building web apps & freelance projects  
-• Practicing DSA  
-• Learning DevOps & Cloud  
+## 🧑‍💻 About Me
 
-### 🛠 Tech Stack
-Frontend: React, JavaScript, HTML, CSS  
-Backend: Node.js, Express  
-Database: MongoDB, MySQL  
-Languages: C++, Java, PHP  
-Tools: Git, REST APIs, Figma, Canva  
-
-### 💬 Ask me about
-Web Dev • MERN • DSA • UI Design  
-
-### 📫 Reach me
-Email: chetansharma32652@gmail.com  
-LinkedIn: chetansharma3114  
-
-### ⚡ Fun fact
-Extrovert, anime fan, and someone who can code for hours without noticing time 😄
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chetansharma_2324) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chetansharma3114) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chetansharma32652@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chetan2324&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Chetan2324&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan2324&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chetan2324&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 💻 Full Stack Developer passionate about building scalable and clean web applications  
+- 📚 Currently practicing **Data Structures & Algorithms (100 Days Challenge)**  
+- ☁️ Learning **DevOps & Cloud** fundamentals  
+- 🎯 Goal: Become a strong backend & system design engineer  
+- ⚡ Fun fact: I can code for hours without noticing time 😄  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Chetan2324&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+### ♻️ CleanZy – Smart Waste Management System  
+> A full-stack web platform for optimized waste tracking and management  
+- Tech: React, Node.js, Express, MongoDB  
+- 🔗 Code: https://github.com/Chetan2324/CleanZy-Smart-Waste-Management  
+
+---
+
+### 📊 Excel Analytics Platform  
+> Data analysis & visualization platform for Excel-based insights  
+- Tech: JavaScript, Data Processing, Charts  
+- 🔗 Code: https://github.com/Chetan2324/excel-analytics-platform  
+
+---
+
+### 🤖 AI Resume Builder  
+> AI-powered resume generator for students & professionals  
+- Tech: MERN Stack  
+- 🔗 Code: https://github.com/Chetan2324/ai-resume-builder  
+
+---
+
+### 🌾 Chetan AgriTech  
+> Tech-driven solution focused on agricultural management  
+- 🔗 Code: https://github.com/Chetan2324/ChetanAgriTech  
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+React.js, HTML, CSS, Tailwind  
+
+**Backend:**  
+Node.js, Express.js  
+
+**Database:**  
+MongoDB, MySQL  
+
+**Languages:**  
+C++, JavaScript, Java  
+
+**Tools:**  
+Git, GitHub, REST APIs, Postman  
+
+---
+
+## 📈 GitHub Stats
+
+![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan2324&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: (add your real link)
+- 📧 Email: chetansharma3265@gmail.com
+
+---
+
+⭐ Always building. Always improving.
