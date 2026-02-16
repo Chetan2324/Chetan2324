@@ -100,7 +100,7 @@ Tech-driven agricultural management solution
   <a href="https://www.linkedin.com/in/chetansharma3114/">
     <img src="https://img.shields.io/badge/LinkedIn-Chetan%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:chetansharma3265@gmail.com">
+  <a href="mailto:chetansharma32652@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
