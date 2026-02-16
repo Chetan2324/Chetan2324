@@ -85,8 +85,9 @@ https://github.com/Chetan2324/ChetanAgriTech
 # 📈 Most Used Languages
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan2324&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan2324&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Chetan2324" />
 </div>
+
 
 ---
 
